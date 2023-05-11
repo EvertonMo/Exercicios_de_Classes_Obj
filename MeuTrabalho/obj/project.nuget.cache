@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTR6TOFRZjyLC7C0YsOoNuLi3KGx/MttcdhQlMJZFtEDuq0+EyFlpfyJ56xX2n6bw57I5Yr/5YThccWTS6WOow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apex01\\source\\repos\\MeuTrabalho\\MeuTrabalho.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apex01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
